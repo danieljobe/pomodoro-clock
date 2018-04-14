@@ -3,4 +3,4 @@
 
 Time your work: [Pomodoro Clock](http://danieljobe.com/pomodoro-clock)
 
-![Pomodoro Clock](http://danieljobe.com/pomodoro-clock/thumbnail3.png)
+![Pomodoro Clock](https://github.com/danieljobe/pomodoro-clock/blob/master/pomodoro-thumbnail.png)
